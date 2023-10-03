@@ -1,2 +1,2 @@
 # Bengals
- Data & Analytics Code Challenge
+ Download data files from s3, transform into one global table and write to postgres DB 
